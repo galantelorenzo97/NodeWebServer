@@ -1,0 +1,3 @@
+#Ignore nodemodules
+express/node_modules/
+test_frontend/node_modules/
